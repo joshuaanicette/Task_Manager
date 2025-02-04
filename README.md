@@ -4,11 +4,15 @@ The To-Do List Manager is a command-line application developed in C that helps u
 Features
 
 Add Task: Users can input a task description, due date, and due time.
+
 View All Tasks: Displays all tasks sorted by their due date and time, indicating their completion status and whether they are overdue.
+
 View Tasks by Date: Filters and displays tasks that are due on a specific date.
+
 Mark Task as Completed: Allows users to mark tasks as completed, updating their status.
 
 Delete Completed Tasks: Removes tasks that have been marked as completed from the list.
+
 Save and Load Tasks: Tasks can be saved to a file (todo_list.txt) and loaded from it, allowing users to maintain their task list across different sessions.
 
 How It Works
