@@ -11,6 +11,7 @@ Delete Completed Tasks: Removes tasks that have been marked as completed from th
 Save and Load Tasks: Tasks can be saved to a file (todo_list.txt) and loaded from it, allowing users to maintain their task list across different sessions.
 
 How It Works
+
 Data Structure
 The application uses a Task structure to store information about each task. This structure includes:
 description: A string describing the task.
